@@ -1,0 +1,16 @@
+.containerMain{
+    width: 100%;
+    margin: 0 auto;
+    font-weight: bold;
+
+}
+
+.delete{
+    background-color: red;
+}
+.delete:hover{
+    background-color: brown;
+}
+.btnActions{
+    margin: 20px;
+}

@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "usuario": "rafael@gmail.com",
+      "senha": "rafael123",
+      "id": 1
+    }
+  ],
+  "pizzas": [
+    {
+      "nome": "Mussarela",
+      "tipo": "Salgada",
+      "ingredientes": "Molho de tomate, tomate, queijo mussarela, orégano e azeitona.",
+      "valor": "22,00",
+      "id": 1
+    }
+  ]
+}

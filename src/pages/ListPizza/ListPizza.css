@@ -1,0 +1,36 @@
+.containerMainPizza{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.titleListPizza{
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.deletePizza{
+    background-color: red;
+}
+.deletePizza:hover{
+    background-color: brown;
+}
+.btnActionsPizza{
+    margin: 20px;
+}
+.NovaPizza{
+    color: white;
+    font-weight: bold;   
+}
+.botaoNovaPizza{
+    margin: 0 auto;
+    margin-top: 20;
+}
+.fundo{
+    background-color: white;
+  }
